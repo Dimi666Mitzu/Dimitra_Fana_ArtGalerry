@@ -1,0 +1,23 @@
+#site{
+    background-image: url(../img/Main.png);
+    background-repeat:no-repeat;
+    background-size:cover;
+}
+iframe{
+    display: block;
+}
+iframe{
+    position: fixed;
+}
+#frame1{
+    left: 37.5%;
+    top: 39%;
+}
+#frame2{
+    left: 6.5%;
+    top: 14%;
+}
+#frame3{
+    left:68%;
+    top: 14%;
+}
